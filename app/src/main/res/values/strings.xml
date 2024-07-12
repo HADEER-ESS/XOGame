@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XOGame</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="x_player">x</string>
+    <string name="o_player">O</string>
+    <string name="score_1">0</string>
+    <string name="score_2">0</string>
+</resources>
